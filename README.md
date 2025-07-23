@@ -11,7 +11,6 @@
 
 - **Name:** Maghizhan
 - **Location:** Chennai, India 🇮🇳
-- **Joined GitHub:** July 2023
 - **Repositories:** 17 (and counting!)
 - **Gists:** 0 (but I promise to gist soon!)
 - **Followers:** 0 (be my first 👀)
@@ -31,51 +30,27 @@ Here are some of my favorite (and quirky) creations:
 - [password](https://github.com/Maghizhan-05/password)  
   *A Python-powered password tool. Because security is cool—and so am I!*
 
-- [DS](https://github.com/Maghizhan-05/DS)  
-  *All things Data Science. From wrangling to wizardry.*
-
-- [dice_flutter_my_first_project](https://github.com/Maghizhan-05/dice_flutter_my_first_project)  
-  *Roll the dice, roll the code! My Flutter journey started here.*
-
-- [React-basics](https://github.com/Maghizhan-05/React-basics)  
-  *React, because static pages are so last century.*
-
 - [Instagram Clone](https://github.com/Maghizhan-05/instagram_clone)  
   *Why scroll when you can code your own?*
 
 - [Responsive-Web-design](https://github.com/Maghizhan-05/Responsive-Web-design)  
   *HTML magic for screens of all shapes & sizes.*
 
-- [Birthday_template](https://github.com/Maghizhan-05/Birthday_template)  
-  *Send birthday wishes, coder-style!*
-
 - [JavaScript](https://github.com/Maghizhan-05/JavaScript)  
   *Because every developer needs a JS playground.*
-
-- [mfund-docs-with-images](https://github.com/Maghizhan-05/mfund-docs-with-images)  
-  *Documentation, but make it beautiful.*
 
 ---
 
 ## 🎉 Fun & Games
 
-- [magic_8_ball](https://github.com/Maghizhan-05/magic_8_ball)  
-  *Ask, and the code shall answer!*
-
 - [quizzler](https://github.com/Maghizhan-05/quizzler)  
   *Quiz yourself, challenge your friends, outsmart your enemies.*
-
-- [Xylophone](https://github.com/Maghizhan-05/Xylophone)  
-  *Making music, one key at a time.*
 
 - [clima](https://github.com/Maghizhan-05/clima)  
   *Weather app, because I always want to know if I need an umbrella.*
 
 - [petmeds_co](https://github.com/Maghizhan-05/petmeds_co)  
   *For your furry friends’ health and happiness.*
-
-- [destini](https://github.com/Maghizhan-05/destini)  
-  *Choose your own adventure, digitally!*
 
 - [bmi_calculator](https://github.com/Maghizhan-05/bmi_calculator)  
   *Calculate BMI, because health matters (even to coders).*
@@ -89,6 +64,7 @@ Here are some of my favorite (and quirky) creations:
 - **HTML** 🌐
 - **JavaScript** ⚡
 - **React** ⚛️
+- **Dart** ⚔️
 
 ---
 
