@@ -10,7 +10,6 @@
 ## 🌟 About Me
 
 - **Name:** Maghizhan
-- **Location:** Chennai, India 🇮🇳
 - **Repositories:** 17 (and counting!)
 - **Gists:** 0 (but I promise to gist soon!)
 - **Followers:** 0 (be my first 👀)
